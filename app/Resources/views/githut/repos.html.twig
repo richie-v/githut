@@ -1,0 +1,26 @@
+<div class="card card-body bg-light">
+    <div class="clearfix">
+        <div class="pull-left">
+            <span style="padding:.375rem .75rem">Important stats:</span>
+        </div>
+
+        <div class="pull-right">
+            <span class="btn btn-primary">Repostiories: {{ repo_count }}</span>
+            <span class="btn btn-success">Most stars: {{ most_stars }}</span>
+        </div>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">Repo List</h3>
+    </div>
+
+    <ul class="list-group">
+        {% for repo in repos %}
+            <li class="list-group-item">
+                {% include 'githut/repo.html.twig' %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
