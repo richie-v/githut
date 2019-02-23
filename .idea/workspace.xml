@@ -11,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../autostacker/app/design/frontend/RVDesign/autostacker/web/images/logo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deloitte/test.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Resources/views/githut/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Resources/views/githut/repo.html.twig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/Resources/views/githut/repos.html.twig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/AppBundle/Service/GitHubApi.php" afterDir="false" />
@@ -6985,6 +6984,9 @@
       <change beforePath="$PROJECT_DIR$/../craft/templates/web.config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../craft/utils/yiic_frontend.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../craft/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magento2/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../magento2/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../magento2/app/code/Ced/DevTool/Block/Context.php" beforeDir="false" />
@@ -8885,20 +8887,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -8928,7 +8921,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -8941,8 +8934,8 @@
         <option value="$PROJECT_DIR$/web/css/mystyle.css" />
         <option value="$PROJECT_DIR$/src/AppBundle/Service/GitHubApi.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/githut/repos.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig" />
       </list>
     </option>
   </component>
@@ -9067,16 +9060,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550943558286</updated>
-      <workItem from="1550943559507" duration="17343000" />
+      <workItem from="1550943559507" duration="18719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17343000" />
+    <option name="totallyTimeSpent" value="18719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
@@ -9180,17 +9172,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="285">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/githut/profile.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
